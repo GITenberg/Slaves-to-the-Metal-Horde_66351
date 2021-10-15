@@ -1,0 +1,45 @@
+_repo: Slaves-to-the-Metal-Horde_66351
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Terry, W. E.
+    aliases:
+    - Terry, Willis E.
+    - Terry, Bill
+    birthdate: 1921
+    deathdate: 1992
+    gutenberg_agent_id: '34265'
+    url: http://www.gutenberg.org/2009/agents/34265
+creator:
+  author:
+    agent_name: Marlowe, Stephen
+    aliases:
+    - Wilder, Stephen
+    - Thames, C. H.
+    - Granger, Darius John
+    - Ridgway, Jason
+    - Chase, Adam
+    - Lesser, Milton
+    birthdate: 1928
+    deathdate: 2008
+    gutenberg_agent_id: '32369'
+    url: http://www.gutenberg.org/2009/agents/32369
+    wikipedia: https://en.wikipedia.org/wiki/Stephen_Marlowe
+description: ''
+gutenberg_issued: '2021-09-20'
+identifiers:
+  gutenberg: '66351'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Robots -- Fiction'
+- !lcsh 'Post-apocalyptic fiction'
+- !lcsh 'Epidemics -- Fiction'
+- GITenberg
+title: Slaves to the Metal Horde
+url: http://www.gutenberg.org/ebooks/66351
