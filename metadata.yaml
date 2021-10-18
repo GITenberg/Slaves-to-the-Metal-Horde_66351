@@ -10,6 +10,9 @@ contributor:
     deathdate: 1992
     gutenberg_agent_id: '34265'
     url: http://www.gutenberg.org/2009/agents/34265
+covers:
+- cover_type: archival
+  image_path: 66351-h/images/cover.jpg
 creator:
   author:
     agent_name: Marlowe, Stephen
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32369
     wikipedia: https://en.wikipedia.org/wiki/Stephen_Marlowe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66351#Slaves-to-the-Metal-Horde
 gutenberg_issued: '2021-09-20'
 identifiers:
   gutenberg: '66351'
